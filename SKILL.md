@@ -1,5 +1,5 @@
 ---
-name: wp-lazy-reviewer
+name: wp-lazy-review
 description: >
     Lazy-but-thorough WordPress.org plugin code reviewer. Triggers when the user wants to review
     WordPress plugin code for WordPress.org approval, fix PHPCS WordPress-ruleset violations,
